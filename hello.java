@@ -1,2 +1,3 @@
 hello class(){
+    syso(hello)
 }
